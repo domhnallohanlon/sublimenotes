@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/SmartMarkdown/readme.md",
+			"settings":
+			{
+				"buffer_size": 5811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Preview/README.md",
+			"settings":
+			{
+				"buffer_size": 11122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Default/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 30564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Pandoc: Render Markdown to HTML"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Todo/readme.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/Default.sublime-keymap",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Todo/Default (Windows).sublime-keymap",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/Main.sublime-menu",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/MarkdownSlideshow.sublime-settings",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/Default.sublime-commands",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/themes/README.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/package-metadata.json",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Projects/html/pcm.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Slideshow/README.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/User/MarkdownSlideshow.sublime-settings",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Projects/html/markdownDemo.html",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown HTML Preview/README.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Projects/html/README.md",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Projects/html/myProject.sublime-project",
+		"/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Projects/html/myProject.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+alt+d",
+			"ctrl+shift+d",
+			"kbd",
+			"></",
+			"ctrl+alt+s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1071,
+								1071
+							]
+						],
+						"settings":
+						{
+							"parser": "github",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/SmartMarkdown/readme.md",
+					"settings":
+					{
+						"buffer_size": 5811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1594,
+								1594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1092.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Markdown Preview/README.md",
+					"settings":
+					{
+						"buffer_size": 11122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2671,
+								2671
+							]
+						],
+						"settings":
+						{
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "browser",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1092.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/Default/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 30564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/ctyiweb/Downloads/Sublime Text 2.0.2/Data/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.markdown":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true
+}
